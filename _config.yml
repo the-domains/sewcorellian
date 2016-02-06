@@ -1,6 +1,6 @@
-name: sewcorellian
+name: Sew Corellian
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.4953
 typography_spectrum: 0.73966
 title: Costumes and Stitchery
 cta:
@@ -22,8 +22,8 @@ color:
     - '#89462d'
     - '#121111'
     - '#4e4a44'
-  brandStrength: 0.5
-  lightness: 0.9879973798524588
+  brandStrength: 0
+  lightness: 0.5
   saturation: 0.1875
   rhythmicContrast: 0.25
 purpose: []
