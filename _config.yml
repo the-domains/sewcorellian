@@ -1,0 +1,28 @@
+name: sewcorellian
+favicon: null
+layout_spectrum: 0.31169533752836287
+typography_spectrum: 0.631708815228194
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.1155740492977202
+  lightness: 0.9879973798524588
+  saturation: 0.5978461410850286
+  rhythmicContrast: 0.5940157664008439
+purpose: []
