@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[sewcorellian]]></title>
         <description><![CDATA[sewcorellian]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sewcorellian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 18:23:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 06 Feb 2016 18:28:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sewcorellian/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5711200b-bf7c-4072-81d3-fc25d702178d.jpg">]]></description>
+            <link>https://thegrid.ai/sewcorellian/40d08fcf-c8e8-45f3-882a-785bcfe4265c/index.html</link>
+            <guid isPermaLink="false">40d08fcf-c8e8-45f3-882a-785bcfe4265c</guid>
+            <pubDate>Sat, 06 Feb 2016 18:27:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/98aa239f-8db6-42ba-b05a-9ae5579a335a.jpg">]]></description>
-            <link>undefined593c6359-ce7f-42e7-b9b5-208dfd5b324f/index.html</link>
+            <link>https://thegrid.ai/sewcorellian/593c6359-ce7f-42e7-b9b5-208dfd5b324f/index.html</link>
             <guid isPermaLink="false">593c6359-ce7f-42e7-b9b5-208dfd5b324f</guid>
             <pubDate>Sat, 06 Feb 2016 18:23:00 GMT</pubDate>
         </item>
